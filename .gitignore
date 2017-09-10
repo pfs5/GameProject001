@@ -215,3 +215,11 @@ FakesAssemblies/
 **/*.Server/GeneratedArtifacts
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
+
+GameProject001\.sln
+
+*.sln
+
+*.vcxproj
+
+GameProject001/GameProject001\.vcxproj\.filters
